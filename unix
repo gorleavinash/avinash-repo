@@ -8,3 +8,4 @@ To check jenkins status :
 systemctl status jenkins
 To stop jenkins :
 systemctl stop jenkins
+all data is up to date
